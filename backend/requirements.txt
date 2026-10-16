@@ -38,7 +38,7 @@ tabicl>=2.1.1
 # joblib
 
 # --- AI & LLM ---
-google-generativeai>=0.5.2
+google-generativeai>=0.8.6
 langchain-core
 langgraph>=1.2.4
 huggingface_hub>=0.20.0
